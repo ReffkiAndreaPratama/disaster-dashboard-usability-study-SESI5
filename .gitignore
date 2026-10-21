@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.local
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+public/demo/*.json
+public/demo/*.csv
+*.tsbuildinfo
+!public/demo/.gitkeep
